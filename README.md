@@ -18,10 +18,6 @@ Welcome to a personal developer portfolio project!
 - Font Awesome (CDN)
 - Git for version control
 
-## 📷 Preview
 
-![Screenshot](image1.png)
-
-## 📁 Project Structure
 
 
